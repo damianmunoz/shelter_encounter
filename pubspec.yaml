@@ -30,8 +30,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flame: ^1.0.0         # Flame for 2D game development
+  flame_audio: ^1.0.0   # For background music and sound effects
 
-
+# Firebase dependencies (optional, only if you plan to use leaderboards or save scores)
+  firebase_core: ^2.0.0      # Core Firebase SDK
+  firebase_auth: ^4.0.0      # Authentication (optional)
+  cloud_firestore: ^4.0.0    # Firestore database for saving high scores (optional)
+ 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
