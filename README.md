@@ -35,6 +35,7 @@ Install dependencies:
  * flutter pub get
  * Run the project:
  * flutter run
+   
 Ensure a compatible emulator or device is connected to run the game.
 MAKE SURE TO DOWNLOAD ALL ASSETS AND ADD THEM TO ASSETS FOLDER
 
@@ -62,7 +63,7 @@ Wooden Floors, Walls, and Wall Toppings:
 Decorational Items:
   * Lanea Zimmerman, Tuomo Untinen, Daniel Eddeland, Hyptosis, Matthew Krohn, William Thompson
   * Furniture and Kitchenware:
- * Based on LPC base tiles by Lanea Zimmerman (Sharm), Hyptosis, and Tuomo Untinen
+  * Based on LPC base tiles by Lanea Zimmerman (Sharm), Hyptosis, and Tuomo Untinen
 Fireplace and Distiller:
   * Tuomo Untinen
 Other Decor Elements:
@@ -76,8 +77,8 @@ Flame's modularity allows efficient handling of sprites, animations, input gestu
 
 Acknowledgments ->
 
-Professor Omar
-Special thanks to Professor Omar for guidance and encouragement throughout the development of this project. Your mentorship has been invaluable in shaping the vision and execution of Shelter Encounter.
+Professor Omar: Special thanks to Professor Omar for guidance and encouragement throughout the development of this project. Your mentorship has been invaluable in shaping the vision and execution of Shelter Encounter.
+
 Future Work
 
 This MVP lays the groundwork for future improvements and features:
